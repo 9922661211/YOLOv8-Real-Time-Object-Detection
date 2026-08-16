@@ -39,3 +39,11 @@ YOLOv8-Object-Detection/
 └── output/
     ├── screenshots/
     └── demo.avi
+
+    ## ⚙️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/9922661211/YOLOv8-Real-Time-Object-Detection.git
+cd YOLOv8-Real-Time-Object-Detection
